@@ -1,0 +1,19 @@
+#gallery {
+    display:grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+#gallery img {
+    width:100%;
+}
+@media screen and (min-width: 300px) and (max-width: 800px) {
+    #gallery {
+        grid-template-columns: repeat(2, 50vw);
+
+        min-height:100vh !important;
+        grid-gap:0;
+        overflow:hidden;
+    }
+    #gallery img {
+        height:100%;
+    }
+}
