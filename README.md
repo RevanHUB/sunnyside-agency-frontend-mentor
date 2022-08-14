@@ -23,7 +23,7 @@ Read the README.md file and have a look around the project
 
 Get colors, fonts etc from the style-guide.md file
  
-Set up your project/file architecture however you want ```
+Set up your project/file architecture however you want ´´´
 
 ## Start coding!
 
