@@ -17,13 +17,16 @@ Download the starter code and go through the README.md file. This will provide f
 Want some support on the challenge? Join our Slack community and ask questions in the help channel.
 
 ## Getting started
-``` Set up the project with version control (e.g. Git)
+``` 
+Set up the project with version control (e.g. Git)
 
 Read the README.md file and have a look around the project
 
 Get colors, fonts etc from the style-guide.md file
  
-Set up your project/file architecture however you want ```
+Set up your project/file architecture however you want 
+
+```
 
 Start coding!
 
