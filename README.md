@@ -33,4 +33,4 @@ Start coding!
 
 ## About 
 
-I did it to refresh layout changes concepts, reutilization, the challenge was without framework but I really needed to create with React *-*.
+I did it to refresh layout changes concepts, reutilization, the challenge was without framework but I really needed to create with React <3
