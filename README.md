@@ -23,10 +23,10 @@ Read the README.md file and have a look around the project
 
 Get colors, fonts etc from the style-guide.md file
  
-Set up your project/file architecture however you want ´´´
+Set up your project/file architecture however you want ```
 
-## Start coding!
+Start coding!
 
-## Summary: 
+Summary: 
 
 I did it to refresh layout changes concepts, reutilization, the challenge was without framework but I really needed to create with React *-*.
