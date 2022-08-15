@@ -20,7 +20,6 @@ export const Navbar = (props) => {
         } else {
             setStatus("absolute")
         }
-        console.log(h)
     }
     function changeWindowsState() {
         const vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0);

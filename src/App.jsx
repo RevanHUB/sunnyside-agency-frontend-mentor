@@ -10,7 +10,7 @@ import Gallery from './components/section/gallery'
 import Footer from './components/footer/footer'
 
 class App extends React.Component {
-  
+
  
   constructor(props) {
     super(props);
