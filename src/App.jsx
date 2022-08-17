@@ -55,7 +55,7 @@ class App extends React.Component {
             settings={this.settings}
           />
           <Home 
-            img_path="src/assets/resources/desktop/image-header.jpg"
+            img_path="assets/resources/desktop/image-header.jpg"
           />
           <SectionLeft
               id="section__1"
