@@ -30,7 +30,16 @@ export const Navbar = (props) => {
             setMobile(false)
         }
     }
+    
+    
     useEffect(() => {
+        const vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0);
+        settings.windowSize = vw;
+        if (vw <= 800) {
+            setMobile(true)
+         } else {
+            setMobile(false)
+        }
         window.addEventListener('resize',  changeWindowsState );
         window.addEventListener('scroll', navBarStatus)
         return () => {

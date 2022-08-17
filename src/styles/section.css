@@ -10,6 +10,7 @@ section div{
     justify-content:center;
     flex-direction:column;
     background:white;
+    color:black;
 }
 
 section div h1 {
@@ -17,7 +18,8 @@ section div h1 {
     font-family:'Fraunces';
     width:60%;
     padding:20px;
-    /* background:red; */
+    color:black;
+
 }
 section div span {
     padding:20px;
@@ -92,6 +94,7 @@ section img {
     section div h1 {
         width:100%;
         text-align:center;
+        color:black;
         /* background:blue; */
         padding:0;
     

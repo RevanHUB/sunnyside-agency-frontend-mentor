@@ -8,9 +8,6 @@
     font-family:'Fraunces';
     font-weight:800;
     color:white;
-    background:url('../assets/resources/desktop/image-header.jpg');
-    background-position:center;
-    background-size:cover;
 }
 .home__ h1 {
     text-transform:uppercase;

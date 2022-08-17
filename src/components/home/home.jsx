@@ -1,8 +1,8 @@
 import '../../styles/home.css';
 
-export const Home = () => {
+export const Home = (props) => {
     return(
-        <div className="home__">
+        <div className="home__" style={{background: "url(" + props.img_path +")", backgroundPosition: "center", backgroundSize: "cover"}} >
             <h1>We are creatives</h1>
             <a href="#section__1">
                 <svg 
