@@ -76,7 +76,7 @@ class App extends React.Component {
             id="section__3"
             title_l="Graphic Design"
             desc_l="Great design makes you memorable. We deliver artwork that underscores your brand message and captures potential client's attention."
-            img_path_l="src/assets/resources/desktop/image-graphic-design.jpg" 
+            img_path_l="assets/resources/desktop/image-graphic-design.jpg" 
             title_r="Photography"
             desc_r="Increase your credibility by getting the most stunning, high-quality photos that improve your business image."
             img_path_r="assets/resources/desktop/image-photography.jpg" 
